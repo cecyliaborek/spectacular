@@ -1,16 +1,19 @@
 {
   "compilerOptions": {
-    "incremental": true,
     "target": "es2020",
     "module": "commonjs",
-    "declaration": true,
     "sourceMap": true,
     "strict": true,
     "moduleResolution": "node",
     "esModuleInterop": true,
-    "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
 
-    "composite": true
+    // project references
+    "composite": true,
+    "declaration": true,
+    "declarationMap": true,
+    "incremental": true,
+    "skipLibCheck": true,
+    "noEmitOnError": true
   }
 }
