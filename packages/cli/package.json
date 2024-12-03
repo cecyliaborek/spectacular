@@ -4,10 +4,9 @@
   "description": "",
   "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node dist/index.js"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Cecylia Borek",
   "license": "ISC",
   "dependencies": {
     "@spectacular/core": "^1.0.0"

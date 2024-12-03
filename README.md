@@ -1,7 +1,39 @@
-# Spectacular
+# Spectacular - Setting up monorepo
 
-A simple testing framework created for fun in Node.js and TypeScript.
+**Spectacular** is a simple testing framework created for fun in Node.js and TypeScript.
 
-Check out my Medium articles to learn more about the project:
+This branch contains code for setting up a monorepo for the project, using npm workspaces and TypeScript Project References. It is part of my medium article.
 
-- [Part 1: Setting up a monorepo with npm workspaces and TypeScript](TODO)
+## Getting started
+
+Install dependencies
+
+```
+npm i
+```
+
+Build the project
+
+```
+npm run build
+```
+
+## Running
+
+### Core package
+
+```
+npm start -w @spectacular/core
+```
+
+### CLI package
+
+```
+npm start -w @spectacular/cli
+```
+
+### Monthy-python package
+
+```
+npm start -w @spectacular/monthy-python
+```
