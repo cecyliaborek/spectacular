@@ -4,9 +4,9 @@
 
 This repository is part of a _spectacular_ blogpost series, in which I am sharing my journey of building a testing framework from scratch in TypeScript and Node.js. There are several branches, each corresponding to different part of the project:
 
-- [Part 1.1](cecyliaborek/spectacular/tree/part-1-monorepo-js) - monorepo setup for JavaScript
-- [Part 1.2](cecyliaborek/spectacular/tree/part-1-monorepo-js) - monorepo setup for TypeScript
-- [Part 2](cecyliaborek/spectacular/tree/part-1-monorepo-js) - core functionalities of a testing framework
+- [Part 1.1](https://github.com/cecyliaborek/spectacular/tree/part-1-monorepo-js) - monorepo setup for JavaScript
+- [Part 1.2](https://github.com/cecyliaborek/spectacular/tree/part-1-monorepo-ts) - monorepo setup for TypeScript
+- [Part 2](https://github.com/cecyliaborek/spectacular/tree/part-2-basic-functionality) - core functionalities of a testing framework
 
 Check out my Medium articles to learn more about the project:
 
