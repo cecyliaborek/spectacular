@@ -1,9 +1,10 @@
 # Spectacular
-## Setting up monorepo with npm workspaces and TypeScript
+
+## Core testing functionality
 
 **Spectacular** is a simple testing framework created for fun in Node.js and TypeScript.
 
-This branch contains code for setting up a monorepo for the project, using **npm workspaces**, with support for **TypeScript**. It is part of my [medium article](https://medium.com/@cecylia.borek/setting-up-a-monorepo-using-npm-workspaces-and-typescript-project-references-307841e0ba4a).
+This branch contains code for the monorepo setup and building the core functionality of the framework (in [packages/core](packages/core)). It is part of my [medium article](https://medium.com/@cecylia.borek/building-a-testing-framework-from-scratch-with-node-js-and-typescript-2709a8041f16).
 
 ## Getting started
 
